@@ -302,3 +302,85 @@ padding: 13px 26px 13px 26px;
 border: none;
 
 }
+
+/* resent news end */
+
+/* donate start */
+.donate-section{
+  margin: 80px 150px;
+}
+
+.donate-container{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.donate-title{
+  font-size: 40px;
+font-weight: 700;
+}
+
+.donate-p{
+  font-size: 16px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.7);
+}
+
+.donate-cards{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.donate-card{
+  box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+padding: 40px;
+
+}
+
+.donate-card-h{
+  font-size: 40px;
+font-weight: 700;
+color: rgba(14, 14, 14, 0.8);
+}
+
+
+
+.donate-card-ex{
+  box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(198, 228, 214);
+padding: 40px;
+
+}
+
+.filed{
+  width:1032px;
+  height: 64px;
+  margin: 32px 0px;
+  box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+padding: 20px 40px 20px 40px;
+border: none;
+font-size: 20px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.3);
+}
+
+.donate-end{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* donate end */
+
+/* subscribe start */
