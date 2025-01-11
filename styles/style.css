@@ -384,3 +384,22 @@ color: rgba(14, 14, 14, 0.3);
 /* donate end */
 
 /* subscribe start */
+
+.subscribe-section{
+  margin: 30px 150px;
+  border-radius: 24px;
+background: rgb(198, 228, 214);
+
+}
+
+.last-fld{
+  font-size: 18px;
+font-weight: 600;
+color: (14, 14, 14, 0.3);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+padding: 13px 26px 13px 26px;
+border: none;
+}
+
+/* subscribe end */
