@@ -3,6 +3,10 @@
   
 }
 
+body{
+  background-color: rgba(14, 14, 14, 0.15);;
+}
+
 
 /* navbar start */
 nav{
@@ -75,4 +79,33 @@ padding: 17px 34px 17px 34px;
   font-weight: 700;
   
 }
+
+.pillars-card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards{
+  width: 302px;
+  padding: 24px;
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin: 0px 24px;
+}
+
+.cards-title{
+  font-size: 20px;
+font-weight: 700;
+}
+
+
+.cards-p{
+  font-size: 16px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.7);
+}
+
+/* fast section end */
 
