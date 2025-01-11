@@ -403,3 +403,21 @@ border: none;
 }
 
 /* subscribe end */
+
+/* end game start */
+
+.end-game{
+  background: rgb(255, 255, 255);
+  display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 50px 160px 50px 160px;
+}
+
+.end-h{
+  font-size: 32px;
+font-weight: 700;
+}
+
+/* end game is end */
